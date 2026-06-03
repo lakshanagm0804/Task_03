@@ -1,0 +1,82 @@
+# DATA ANALYST INTERNSHIP
+
+## Task 3: SQL for Data Analysis
+
+### Objective
+
+The objective of this task was to use SQL queries to retrieve, manipulate, and analyze structured data from a relational database. The task focused on applying SQL concepts to generate meaningful business insights from an e-commerce dataset.
+
+### Tools Used
+
+* MySQL
+* SQL Editor / MySQL Workbench
+* Ecommerce SQL Database
+
+### Task Performed
+
+The following SQL operations were successfully completed:
+
+1. **Data Retrieval**
+
+   * Used `SELECT` statements to fetch required data.
+   * Applied `WHERE` conditions to filter records.
+   * Sorted results using `ORDER BY`.
+
+2. **Grouping and Aggregation**
+
+   * Utilized `GROUP BY` to categorize data.
+   * Applied aggregate functions such as:
+
+     * `SUM()`
+     * `AVG()`
+     * `COUNT()`
+     * `MAX()`
+     * `MIN()`
+
+3. **Joins**
+
+   * Implemented different types of joins to combine information from multiple tables:
+
+     * INNER JOIN
+     * LEFT JOIN
+     * RIGHT JOIN
+
+4. **Subqueries**
+
+   * Created nested queries to solve complex analytical problems and retrieve filtered results based on intermediate calculations.
+
+5. **Views**
+
+   * Created SQL Views to simplify repeated analysis and improve query readability.
+
+6. **Indexes**
+
+   * Added indexes to optimize query execution and improve database performance.
+
+### Key Learnings
+
+* Understanding of relational database structures.
+* Writing efficient SQL queries for data extraction and analysis.
+* Combining multiple tables using joins.
+* Performing business calculations using aggregate functions.
+* Using subqueries and views for advanced analysis.
+* Improving query performance through indexing.
+
+### Outcome
+
+This task strengthened my practical knowledge of SQL and database management. I gained hands-on experience in querying structured data, generating insights, and optimizing database operations, which are essential skills for a Data Analyst role.
+
+### Deliverables Submitted
+
+* SQL query file (.sql)
+* Screenshots of query outputs
+* Task report document
+
+---
+
+**Submitted By:**
+**Lakshana G M**
+
+**Internship Domain:** Data Analytics
+
+**Task:** SQL for Data Analysis
